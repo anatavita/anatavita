@@ -81,7 +81,6 @@
 
 
 <h3 align="left">Other:</h3>
-and here is my stats
 <p align="center"><img src="https://www.codewars.com/users/anatavita/badges/large"/><br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=anatavita&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anatavita&theme=monokai"/>
@@ -89,9 +88,6 @@ and here is my stats
 </p>
 <!--
 **anatavita/anatavita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anatavita&show_icons=true&locale=en&layout=compact" alt="anatavita" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anatavita&show_icons=true&locale=en" alt="anatavita" /></p>
 
  
 

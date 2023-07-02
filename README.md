@@ -5,7 +5,7 @@
 
 - ❤️ I’m looking to collaborate on **Anatavita**
 
-- 🤝 I’m looking for help with **Analyst Developer**
+- 🤝 I’m looking for help with **Analyst Development program**
 
 - 👨‍💻 All of my projects are available at [https://anatavita.github.io/](https://anatavita.github.io/)
 

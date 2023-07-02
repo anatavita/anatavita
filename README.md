@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://anatavita.github.io/](https://anatavita.github.io/)
 
-- 💬 Ask me about **I'm From Bogor**
-
 - 📫 How to reach me **anatavita30@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

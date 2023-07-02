@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anatavita(20years)</h1>
 <h3 align="center">A passionate frontend developer from Indonesian</h3>
+
 - ❤️ me as a student college from unindra
+
 - 🔭 I’m currently working on **WebApp**
+
 - 👨‍💻 All of my projects are available at [https://anatavita.github.io/](https://anatavita.github.io/)
 
 - 📫 How to reach me **anatavita30@gmail.com**

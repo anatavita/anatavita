@@ -3,7 +3,7 @@
 
 - ❤️ me as a student college
 
-- 🔭 I’m currently working on **WebApp**
+- 🔭 I’m currently working on **a Website and a Java Netbeans application**
 
 - 👨‍💻 All of my projects are available at [https://anatavita.github.io/](https://anatavita.github.io/)
 
